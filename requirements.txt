@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-mistralai
+
+tavily-python
+
+requests
+beautifulsoup4
+
+python-dotenv
+rich
+
+streamlit
